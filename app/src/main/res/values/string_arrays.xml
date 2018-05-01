@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_database_column">
+        <item>location</item>
+        <item>icon_uri</item>
+        <item>icon_bmp</item>
+        <item>name</item>
+        <item>vicinity</item>
+        <item>type</item>
+        <item>direction</item>
+        <item>distance</item>
+    </string-array>
+</resources>

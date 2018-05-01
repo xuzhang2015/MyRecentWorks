@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyNearPlaceApplication</string>
+    <string name="loading">Loading, please wait.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_is_granted">Permission is granted</string>
+    <string name="permission_is_not_granted">Permission is not granted, sorry, you cannot use this App.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_search_place">Enter the search place</string>
+    <string name="enter_place_name_or_type">Enter place name or type</string>
+    <string name="inner_error_try_again">Inner error, please try again.</string>
+    <string name="cannot_find_places">Cannot find the places.</string>
+    <string name="please_check_internet_connection">Please check your internet connection</string>
+    <string name="check_your_search_name">Please check your search name</string>
+    <string name="no_location_provider_to_use">No location provider to use</string>
+    <string name="cannot_find_the_place_detail">Cannot find the place detail, sorry.</string>
+    <string name="no_more_results">No more results</string>
+    <string name="GPS_enbale">Do you want to enable it?</string>
+    <string name="search_range">Search Range</string>
+    <string name="search_500_meters">500 meters</string>
+    <string name="search_1000_meters">1000 meters</string>
+    <string name="search_1500_meters">1500 meters</string>
+</resources>
